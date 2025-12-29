@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Disallow private areas
+Disallow: /_next/
+Disallow: /api/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://svaraaerotech.com/sitemap.xml
+
+# Crawl delay (optional, time in seconds)
+# Crawl-delay: 1
