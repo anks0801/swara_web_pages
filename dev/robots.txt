@@ -7,7 +7,7 @@ Disallow: /api/
 Disallow: /private/
 
 # Sitemap
-Sitemap: https://svara.com/sitemap.xml
+Sitemap: https://svaraaerotech.com/sitemap.xml
 
 # Crawl delay (optional, time in seconds)
 # Crawl-delay: 1
